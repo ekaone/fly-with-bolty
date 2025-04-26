@@ -15,7 +15,7 @@ Bolty is a simple side-scrolling game, intended for [Bolt's Design Challenge](ht
 
 ## Demo
 
-You can play the game [here](https://bolty.netlify.app/).
+You can play the game [here](https://fly-with-bolty.netlify.app/).
 
 ## Development
 
